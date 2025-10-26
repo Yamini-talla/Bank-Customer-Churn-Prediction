@@ -7,7 +7,8 @@ The dataset used in this project is sourced from Kaggle and comprises 10,000 row
 The dataset contains several independent variables, which are potential factors that may influence a customer's decision to leave the bank. These variables include customer-specific information like credit score, country (geography), age, tenure (number of years with the bank), bank balance, the number of bank products utilized (NumOfProducts), whether the customer holds a credit card (HasCrCard), and whether the customer is an active member with the bank (IsActiveMember). The target variable, also known as the dependent variable, is labeled "Exited" and is represented by a binary flag: 1 if the customer closed their account with the bank and 0 if the customer is retained.
 
 **Data Dictionary**
-|**Column Name**|	Description|
+| **Column Name** | **Description** |
+|------------------|-----------------|
 |**RowNumber**|	Row number|
 |**CustomerId**|	Unique identification key for different customers|
 |**Surname**|	Customer's last name|
